@@ -4,6 +4,7 @@ title: Setup
 
 - Proper internet connection required
 - A web browser
-- **Maybe create an account before?**
+- Einen GitLab Account bei ZB MED
+  - Wenn noch kein Account besteht, Rabea Müller kontaktieren
 
 {% include links.md %}
