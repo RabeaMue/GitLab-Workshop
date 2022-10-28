@@ -3,10 +3,11 @@ layout: lesson
 root: .  # Is the only page that don't follow the partner /:path/index.html
 permalink: index.html  # Is the only page that don't follow the partner /:path/index.html
 ---
-This Workshop introduces librarians to LIVIVO.
-At the conclusion of the lesson you will: know what the LIVIO interface looks like;
-know how to search in LIVIVO for simple/advanced search; 
-know how to use of bookmarks and search agents.
+Dieser Workshop gibt eine Einführung in GitLab und das Ticket-System in GitLab
+Am Ende des Workshops:
+- kennt ihr euch mit dem Userinterface von GitLab aus,
+- könnt eigene Projekte auf GitLab erstellen,
+- könnt Issues in GitLab erstellen und bearbeiten
 
 > ## Under Design
 >
@@ -18,11 +19,11 @@ know how to use of bookmarks and search agents.
 
 > ## Prerequisites
 >
-> 1. Learners need a proper internet connection.
+> 1. Die Lernenden brauchen eine stabile Internetverbindung
 >
-> 2. There is no need for pre installations.
+> 2. Es bedarf keiner Vorinstallationen
 >
-> 3. **Creating LIVIVO account or make it part of the lesson as episode?**
+> 3. Ein GitLab-Account bei ZB MED wird benötigt
 {: .prereq}
 
 {% include links.md %}
