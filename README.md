@@ -1,6 +1,5 @@
-# Maintainers - LIVIVO Workshop
+# Maintainers - GitLab Workshop
 
-- [Konrad Förstner](https://github.com/konrad)
 - [Rabea Müller](https://github.com/RabeaMue)  
 
 ## Based on Library Carpentry
